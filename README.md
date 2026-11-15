@@ -80,11 +80,11 @@ Stakeholders wanted answers to questions such as:
 
 **Summary dashboard**
 
-![Summary Dashboard](images/summary_dashboard.png)
+![Summary Dashboard](https://github.com/kyadav108/Bank-Loan-Analysis-Dashboard-Excel/blob/main/Images/Summary.jpg)
 
 **Overview dashboard**
 
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](https://github.com/kyadav108/Bank-Loan-Analysis-Dashboard-Excel/blob/main/Images/Overview.jpg)
 
 
 ## 🔍 Key Insights
