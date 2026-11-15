@@ -112,5 +112,5 @@ Stakeholders wanted answers to questions such as:
 ├── financial_loan_data_excel.xlsx   # Workbook: data, pivots, dashboards
 ├── README.md
 ├── Project_Report.docx              # Detailed project report
-└── images/                          # Dashboard screenshots and charts
+└── Images/                          # Dashboard screenshots
 ```
